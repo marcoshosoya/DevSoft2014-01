@@ -1,0 +1,21 @@
+ex1.txt
+
+classe: Dimensao
+	atributos: Largura,Altura,Comprimento,Peso,
+	metodo:aumenta, diminui
+
+classe Estado
+	atributo: Solido,Liquido,Gasoso
+	metodo: densidade, pressao, molhado, seco
+
+classe preco
+	atributo: distancia
+	metodo: longe, perto
+
+clase protacao
+	atributo: perigoso, nao perigoso
+	metodo: toxico, radioativo, acido, inflamavel
+
+classe preco
+	atributo: tempo, mao de obra
+	metodo: custo, combustivel gasto
